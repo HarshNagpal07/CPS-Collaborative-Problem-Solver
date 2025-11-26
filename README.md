@@ -19,5 +19,4 @@ Includes authentication, CRUD APIs, protected routes, filtering, and a clean UI.
 - JWT Authentication
 - dotenv
 
---
 
